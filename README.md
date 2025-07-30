@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Learning Project: To-Do Application
+
+This is a learning project built with React and Node.js to understand full-stack development concepts.
+
+## Project Overview
+A simple To-Do application with user authentication and task management features.
+
+## Tech Stack
+- **Frontend**: React
+- **Backend**: Node.js with Express
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
